@@ -1,24 +1,45 @@
-# The Runic Consulting Facility-to-Systems Playbook
+# Runic Consulting — Facility Systems Playbook
 
-This repository is the source-of-truth for a practical operating system that turns a training facility (and its partner performance programs) into a repeatable, scalable, membership-driven business—without losing the culture that made it work.
+**Purpose:** This repository is the source of truth for *The Runic Consulting Facility-to-Systems Playbook*—a practical operating system for turning a sports training facility (and partner performance programs) into a repeatable, scalable, membership-driven business **without losing the culture**.
 
-## Who this is for
-- Facility owners (baseball/softball, performance, multi-sport)
-- Private coaches building predictable income
-- Operators installing SOPs, dashboards, and training pathways
+This playbook is written for:
+- Facility owners (baseball/softball, multi-sport, performance)
+- Private coaches who want predictable income and clean operations
+- Operators installing SOPs, dashboards, and offer systems
 
-## How to use this repo
-1. Start in `manuscript/00-front-matter.md`
-2. Implement in order:
-   - Packaging → Operations → Growth → Runic Install
-3. Use copy/paste tools in `/templates`
+## What’s inside
+- `/manuscript` — book chapters (copy/paste into KDP/print workflows)
+- `/templates` — SOPs, scripts, dashboards, offer templates (deployable)
+- `/case-studies` — notes and maps for GBC / Carolina Acceleration style ecosystems
+- `/references` — glossary + web/source log
+
+## How to use (recommended)
+1. Read `manuscript/00-front-matter.md` (rules + definitions)
+2. Implement in this order:
+   - **Packaging** (offers) → **Operations** (SOPs) → **Growth** (flywheel) → **Runic Method** (audit/install)
+3. Copy/paste tools from `/templates` as you build.
 
 ## Install paths
-- **90-Day Install**: packaging + dashboards + SOPs + first track launch
-- **180-Day Scale**: staff leverage + coach enablement + ecosystem growth
+### 30-Day Quick Wins
+- Launch membership tiers
+- Install consult script + tour script
+- Add weekly scoreboard
 
-## Repo map
-- `/manuscript` — book chapters
-- `/templates` — SOPs, scripts, dashboards, offer templates
-- `/case-studies` — facility/program mappings
-- `/references` — glossary and source notes
+### 90-Day Install
+- Standardize offers
+- Create SOP library
+- Launch a 12-week track
+
+### 180-Day Scale
+- Delegate fulfillment
+- Add coach enablement pathways
+- Expand ecosystem partnerships
+
+## Contributing
+See `CONTRIBUTING.md`. This repo uses issues + pull requests as the canonical change log.
+
+## License
+MIT (see `LICENSE`).
+
+## Citation
+If you cite this playbook in academic or public work, use `CITATION.cff`.
